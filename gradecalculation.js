@@ -1,4 +1,4 @@
-const grade = 89;
+const grade = 72;
 
 if (grade >= 80) {
   console.log("Grade is A+");
